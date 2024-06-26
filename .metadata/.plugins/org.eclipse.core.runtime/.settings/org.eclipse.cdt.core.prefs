@@ -1,0 +1,9 @@
+config/controller/cdt.launchMode=run
+config/controller/cdt.toolChain.id=gcc-x86_64-C\:/MinGW64/mingw64/bin/gcc.exe
+config/controller/cdt.toolChain.type=org.eclipse.cdt.build.gcc
+config/controller/org.eclipse.cdt.make.core.provider/make.debug.win32.x86_64/cdt.launchMode=debug
+config/controller/org.eclipse.cdt.make.core.provider/make.debug.win32.x86_64/cdt.toolChain.id=gcc-x86_64-C\:/MinGW64/mingw64/bin/gcc.exe
+config/controller/org.eclipse.cdt.make.core.provider/make.debug.win32.x86_64/cdt.toolChain.type=org.eclipse.cdt.build.gcc
+config/controller/org.eclipse.cdt.make.core.provider/make.debug.win32.x86_64/stdbuild.build.container=/controller/build/make.debug.win32.x86_64
+config/controller/stdbuild.build.container=/controller/build/default
+eclipse.preferences.version=1

@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"bleprph.h": "c",
+			"ble_svc_gap.h": "c",
+			"task.h": "c",
+			"system_error": "c",
+			"stm8s.h": "c",
+			"stdio.h": "c",
+			"gpio.h": "c",
+			"stm8s_itc.h": "c",
+			"acacontrollerstate.h": "c",
+			"stm8s_adc1.h": "c",
+			"main.h": "c"
+		}
+	}
+}

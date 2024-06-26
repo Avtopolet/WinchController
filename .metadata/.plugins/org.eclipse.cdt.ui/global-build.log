@@ -1,0 +1,30 @@
+Building in: C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+make -f ..\..\Makefile
+make: ..\..\Makefile: No such file or directory
+make: *** No rule to make target '..\..\Makefile'.  Stop.
+Build complete (1 errors, 0 warnings): C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+Building in: C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+make -f ..\..\Makefile
+make: ..\..\Makefile: No such file or directory
+make: *** No rule to make target '..\..\Makefile'.  Stop.
+Build complete (1 errors, 0 warnings): C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+Building in: C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+make -f ..\..\Makefile
+make: ..\..\Makefile: No such file or directory
+make: *** No rule to make target '..\..\Makefile'.  Stop.
+Build complete (1 errors, 0 warnings): C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+Building in: C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+make -f ..\..\Makefile
+make: ..\..\Makefile: No such file or directory
+make: *** No rule to make target '..\..\Makefile'.  Stop.
+Build complete (1 errors, 0 warnings): C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+Building in: C:\STM8controller\firmware1\build\default
+make -f ..\..\Makefile
+make: ..\..\Makefile: No such file or directory
+make: *** No rule to make target '..\..\Makefile'.  Stop.
+Build complete (1 errors, 0 warnings): C:\STM8controller\firmware1\build\default
+Building in: C:\STM8controller\firmware1\build\make.debug.win32.x86_64
+make -f ..\..\Makefile
+make: ..\..\Makefile: No such file or directory
+make: *** No rule to make target '..\..\Makefile'.  Stop.
+Build complete (1 errors, 0 warnings): C:\STM8controller\firmware1\build\make.debug.win32.x86_64

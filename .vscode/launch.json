@@ -1,0 +1,24 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+       
+        {
+            "type": "stm8-debug",
+            "request": "launch",
+            "name": "sdcc launch",
+            "serverType": "stm8-sdcc",
+            "executable": "main.hex",
+            
+            "cpu": "STM8S105C6",
+            "port": "3333",
+            "openOcdConfigs": [
+                
+                "tools/openocd-v0.10.0-scripts/stlink-v2.cfg",
+                "tools/openocd-v0.10.0-scripts/stm8s105.cfg"
+            ]
+        }
+    ]
+}
