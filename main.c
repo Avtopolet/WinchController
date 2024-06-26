@@ -269,6 +269,7 @@ int main(void) {
 
 			}
 			//printf("ERPS -- before %u -- now %u -- difference %u \r\n",ui16_motor_speed_erps_old,ui16_motor_speed_erps,ui16_motor_speed_erps_old-ui16_motor_speed_erps);
+			//
 			ui16_motor_speed_erps_old = ui16_motor_speed_erps;
 			ui8_value_old=ui8_value;
 			
